@@ -1,0 +1,3 @@
+webbrowser
+pyttsx3
+wikipedia
